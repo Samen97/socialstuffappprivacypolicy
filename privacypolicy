@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Social Stuff – Standards Against Child Sexual Abuse and Exploitation (CSAE)</title>
+  <meta name="description" content="Social Stuff's externally published standards against child sexual abuse and exploitation (CSAE). Zero tolerance, reporting routes, enforcement, and legal compliance." />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:860px;margin:0 auto;padding:24px;line-height:1.6;color:#222}
+    h1{font-size:1.8rem;margin:0 0 8px}
+    h2{margin-top:28px}
+    .muted{color:#555}
+    a{color:#0A6EBD;text-decoration:none}
+    a:hover{text-decoration:underline}
+    ul{padding-left:20px}
+    header,footer{margin:18px 0}
+    footer{font-size:.95rem;color:#555}
+    .card{background:#f7fafc;border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:16px 0}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Standards Against Child Sexual Abuse and Exploitation (CSAE)</h1>
+    <p class="muted"><strong>Effective Date:</strong> 24 August 2025 &nbsp;|&nbsp; <strong>Last Updated:</strong> 24 August 2025</p>
+  </header>
+
+  <p>At <strong>Social Stuff</strong>, we maintain a <strong>zero-tolerance policy</strong> toward all forms of child sexual abuse and exploitation (CSAE). We are committed to preventing, detecting, removing, and reporting CSAE content and behavior on our platform, and we support global efforts to protect children online and offline.</p>
+
+  <h2>Our Commitments</h2>
+  <ul>
+    <li><strong>Zero tolerance:</strong> Any content, behavior, solicitation, or activity that depicts, promotes, normalizes, or seeks child sexual abuse or exploitation is strictly prohibited.</li>
+    <li><strong>18+ platform:</strong> Social Stuff is for adults (18+) only. Suspected under-18 accounts will be removed.</li>
+    <li><strong>Prevention & detection:</strong> We use policy enforcement, user reporting, and manual reviews to detect and prevent harmful content, including CSAE.</li>
+    <li><strong>Swift action:</strong> Confirmed CSAE results in immediate content removal, permanent account termination, and reporting to relevant authorities.</li>
+    <li><strong>Cooperation:</strong> We cooperate with law enforcement and child-protection organizations (including reports to the <a href="https://report.cybertip.org/" rel="noopener" target="_blank">NCMEC CyberTipline</a> and UK bodies) where appropriate.</li>
+  </ul>
+
+  <h2>Reporting CSAE</h2>
+  <div class="card">
+    <p>If you encounter CSAE content or behavior on Social Stuff:</p>
+    <ul>
+      <li><strong>In-app:</strong> Use the “Report” tools on profiles, events, posts, or messages.</li>
+      <li><strong>Email:</strong> <a href="mailto:safety@socialstuff.app">safety@socialstuff.app</a></li>
+      <li><strong>External (UK):</strong> Report directly to the <a href="https://report.iwf.org.uk" rel="noopener" target="_blank">Internet Watch Foundation (IWF)</a>.</li>
+      <li><strong>Emergency:</strong> If someone is in immediate danger, contact local emergency services.</li>
+    </ul>
+  </div>
+
+  <h2>Enforcement</h2>
+  <ul>
+    <li>Confirmed CSAE → <strong>immediate account termination</strong> and platform ban.</li>
+    <li>Content preserved as required for lawful reporting; shared with competent authorities where legally appropriate.</li>
+    <li>Networked/linked accounts, devices, or payment methods may be permanently banned.</li>
+  </ul>
+
+  <h2>Compliance & Alignment</h2>
+  <ul>
+    <li>UK: Online Safety Act; Protection of Children Act 1978 (and amendments); Sexual Offences Act 2003.</li>
+    <li>International cooperation via NCMEC/INTERPOL mechanisms where applicable.</li>
+    <li>We update our policies and enforcement practices as laws and best practices evolve.</li>
+  </ul>
+
+  <h2>Education & Deterrence</h2>
+  <ul>
+    <li>Clear user onboarding and community guidelines communicate our 18+ rule and zero-tolerance stance.</li>
+    <li>Repeat reminders in reporting flows and Help Center materials (as our resources expand).</li>
+  </ul>
+
+  <h2>Transparency</h2>
+  <p>We are committed to periodic safety updates summarizing policy changes and enforcement outcomes (aggregate, non-identifying data).</p>
+
+  <footer>
+    <p>Contact: <a href="mailto:safety@socialstuff.app">safety@socialstuff.app</a></p>
+  </footer>
+</body>
+</html>
