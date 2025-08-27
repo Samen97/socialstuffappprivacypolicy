@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Social Stuff – Standards Against CSAE</title>
+  <meta name="description" content="Externally published standards against child sexual abuse and exploitation (CSAE) for Social Stuff." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="brand"><span class="dot"></span> Social Stuff</div>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a class="active" href="csae.html">CSAE Standards</a>
+        <a href="privacy.html">Privacy Policy</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container doc">
+    <h1>Standards Against Child Sexual Abuse and Exploitation (CSAE)</h1>
+    <p class="muted"><strong>Effective:</strong> 24 August 2025 · <strong>Last Updated:</strong> 24 August 2025</p>
+
+    <p>At <strong>Social Stuff</strong>, we maintain a <strong>zero-tolerance policy</strong> toward all forms of child sexual abuse and exploitation (CSAE). We are committed to preventing, detecting, removing, and reporting CSAE content and behaviour on our platform, and we support global efforts to protect children online and offline.</p>
+
+    <h2>Our Commitments</h2>
+    <ul>
+      <li><strong>Zero tolerance:</strong> Any content, behaviour, solicitation, or activity that depicts, promotes, normalises, or seeks child sexual abuse or exploitation is strictly prohibited.</li>
+      <li><strong>18+ platform:</strong> Social Stuff is for adults (18+) only. Suspected under-18 accounts will be removed.</li>
+      <li><strong>Prevention & detection:</strong> We use policy enforcement, user reporting, and manual reviews to detect and prevent harmful content, including CSAE.</li>
+      <li><strong>Swift action:</strong> Confirmed CSAE results in immediate content removal, permanent account termination, and reporting to relevant authorities.</li>
+      <li><strong>Cooperation:</strong> We cooperate with law enforcement and child-protection organisations (including reports to the <a href="https://report.cybertip.org/" target="_blank" rel="noopener">NCMEC CyberTipline</a> and UK bodies) where appropriate.</li>
+    </ul>
+
+    <h2>Reporting CSAE</h2>
+    <div class="notice">
+      <p>If you encounter CSAE content or behaviour on Social Stuff:</p>
+      <ul>
+        <li><strong>In-app:</strong> Use the “Report” tools on profiles, events, posts, or messages.</li>
+        <li><strong>Email:</strong> <a href="mailto:safety@socialstuff.app">safety@socialstuff.app</a></li>
+        <li><strong>External (UK):</strong> Report directly to the <a href="https://report.iwf.org.uk" target="_blank" rel="noopener">Internet Watch Foundation (IWF)</a>.</li>
+        <li><strong>Emergency:</strong> If someone is in immediate danger, contact local emergency services.</li>
+      </ul>
+    </div>
+
+    <h2>Enforcement</h2>
+    <ul>
+      <li>Confirmed CSAE → <strong>immediate account termination</strong> and platform ban.</li>
+      <li>Content preserved as required for lawful reporting; shared with competent authorities where legally appropriate.</li>
+      <li>Networked/linked accounts, devices, or payment methods may be permanently banned.</li>
+    </ul>
+
+    <h2>Compliance & Alignment</h2>
+    <ul>
+      <li>UK: Online Safety Act; Protection of Children Act 1978; Sexual Offences Act 2003.</li>
+      <li>International cooperation via NCMEC/INTERPOL mechanisms where applicable.</li>
+      <li>We update our policies and enforcement practices as laws and best practices evolve.</li>
+    </ul>
+
+    <h2>Transparency</h2>
+    <p>We are committed to periodic safety updates summarising policy changes and enforcement outcomes (aggregate, non-identifying data).</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="y"></span> Social Stuff · <a href="index.html">Home</a></p>
+    </div>
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
